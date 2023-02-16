@@ -3,3 +3,27 @@
   padding: 0px;
   box-sizing: border-box;
 }
+
+.background {
+  background-color: #23272a;
+  text-align: center;
+}
+
+.vikimg {
+  height: 300px;
+  width: 500px;
+  align-self: center;
+}
+
+.header--title {
+  text-align: center;
+  margin: 40px 40px 0px 40px;
+  color: rgb(205, 207, 208);
+  font-family: sans-serif;
+}
+
+.header--subtitle {
+  text-align: center;
+  margin: 0px 0px 40px 0px;
+  color: rgb(149, 152, 154);
+}
