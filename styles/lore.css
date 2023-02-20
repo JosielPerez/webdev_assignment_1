@@ -2,6 +2,9 @@
   background-color: #23272a;
   text-align: center;
 }
+.link-button-container {
+  margin-bottom: 40px;
+}
 
 .link-button {
   color: white;
@@ -32,4 +35,15 @@
   font-family: sans-serif;
   color: rgb(205, 207, 208);
   margin-bottom: 40px;
+}
+
+.vikimg-2 {
+  height: 400px;
+  width: 600px;
+  margin-top: 40px;
+}
+
+.header3--title {
+  font-family: sans-serif;
+  color: rgb(237, 239, 239);
 }
