@@ -1,0 +1,60 @@
+.background {
+  background-color: #23272a;
+  text-align: center;
+}
+.link-button-container {
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+.link-button {
+  color: white;
+  font-family: sans-serif;
+  font-size: 24px;
+}
+
+.header--title {
+  text-align: center;
+  margin: 40px 40px 40px 40px;
+  color: rgb(205, 207, 208);
+  font-family: sans-serif;
+  font-size: 64px;
+}
+
+.outline {
+  border: 1px solid rgb(255, 255, 255);
+  margin: 0px 40px 0px 40px;
+}
+
+table td {
+  border: 1px solid white;
+  padding: 10px;
+  font-family: sans-serif;
+  color: #b2b3b5;
+  font-size: 16px;
+}
+
+table tr {
+  font-family: sans-serif;
+  color: #b2b3b5;
+  font-size: 26px;
+}
+.table--container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.video--container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.figcaption {
+  font-family: sans-serif;
+  font-size: 16px;
+  color: rgb(159, 160, 161);
+}
